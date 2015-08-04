@@ -13,9 +13,456 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\ak47">
+      <UniqueIdentifier>{2095fcd1-197f-4459-aad1-935b26ab1d11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MapCollision">
+      <UniqueIdentifier>{54566b41-cc9d-4ab8-b290-510fb354d60c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\shotgun">
+      <UniqueIdentifier>{80b6ab53-8709-449f-844e-d99ab579f5cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\skybox">
+      <UniqueIdentifier>{261c9a3e-bf59-43fc-ad55-142e7934ac63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\weapon1">
+      <UniqueIdentifier>{2d2248b0-5f46-4e2d-bc85-0a4c9a353776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Zombie">
+      <UniqueIdentifier>{e68a082f-bf5e-466e-9f08-10309211f0dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="ak47\ak47.mtl">
+      <Filter>Resource Files\ak47</Filter>
+    </None>
+    <None Include="MapCollision\MapCollision.mtl">
+      <Filter>Resource Files\MapCollision</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000001.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000002.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000003.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000004.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000005.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000006.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000007.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000008.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000009.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000010.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000011.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000012.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000013.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000014.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000015.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000016.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000017.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000018.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000019.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000020.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000021.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000022.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000023.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000024.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000025.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000026.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000027.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000028.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000029.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000030.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000031.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000032.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000033.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000034.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000035.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000036.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000037.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="shotgun\shotgun_000038.mtl">
+      <Filter>Resource Files\shotgun</Filter>
+    </None>
+    <None Include="weapon1\testGun_000001.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000002.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000003.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000004.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000005.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000006.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000007.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000008.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000009.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000010.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000011.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000012.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000013.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000014.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000015.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000016.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000017.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000018.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000019.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000020.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000021.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000022.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000023.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000024.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000025.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000026.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000027.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000028.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000029.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000030.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000031.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000032.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000033.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000034.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000035.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000036.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000037.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="weapon1\testGun_000038.mtl">
+      <Filter>Resource Files\weapon1</Filter>
+    </None>
+    <None Include="Zombie\zombie_000001.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000002.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000003.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000004.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000005.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000006.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000007.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000008.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000009.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000010.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000011.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000012.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000013.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000014.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000015.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000016.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000017.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000018.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000019.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000020.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000021.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000022.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000023.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000024.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000025.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000026.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000027.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000028.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000029.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000030.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000031.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000032.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000033.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000034.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000035.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000036.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000037.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000038.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000039.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000040.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000041.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000042.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000043.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000044.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000045.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000046.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000047.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000048.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000049.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000050.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000051.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000052.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000053.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000054.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000055.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000056.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000057.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000058.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000059.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000060.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000061.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000062.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000063.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000064.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
+    <None Include="Zombie\zombie_000065.mtl">
+      <Filter>Resource Files\Zombie</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -115,5 +562,573 @@
     <Text Include="README.txt">
       <Filter>Header Files</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="ak47\ak47_000001.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000002.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000003.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000004.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000005.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000006.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000007.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000008.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000009.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000010.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000011.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000012.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000013.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000014.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000015.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000016.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000017.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000018.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000019.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000020.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000021.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000022.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000023.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000024.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000025.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000026.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000027.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000028.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000029.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000030.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000031.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000032.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000033.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000034.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000035.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000036.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000037.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="ak47\ak47_000038.obj">
+      <Filter>Resource Files\ak47</Filter>
+    </Object>
+    <Object Include="MapCollision\MapCollision.obj">
+      <Filter>Resource Files\MapCollision</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000001.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000002.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000003.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000004.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000005.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000006.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000007.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000008.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000009.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000010.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000011.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000012.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000013.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000014.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000015.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000016.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000017.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000018.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000019.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000020.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000021.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000022.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000023.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000024.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000025.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000026.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000027.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000028.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000029.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000030.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000031.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000032.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000033.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000034.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000035.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000036.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000037.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="shotgun\shotgun_000038.obj">
+      <Filter>Resource Files\shotgun</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000001.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000002.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000003.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000004.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000005.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000006.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000007.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000008.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000009.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000010.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000011.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000012.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000013.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000014.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000015.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000016.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000017.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000018.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000019.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000020.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000021.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000022.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000023.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000024.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000025.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000026.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000027.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000028.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000029.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000030.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000031.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000032.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000033.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000034.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000035.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000036.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000037.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="weapon1\testGun_000038.obj">
+      <Filter>Resource Files\weapon1</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000001.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000002.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000003.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000004.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000005.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000006.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000007.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000008.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000009.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000010.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000011.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000012.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000013.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000014.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000015.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000016.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000017.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000018.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000019.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000020.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000021.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000022.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000023.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000024.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000025.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000026.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000027.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000028.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000029.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000030.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000031.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000032.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000033.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000034.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000035.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000036.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000037.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000038.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000039.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000040.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000041.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000042.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000043.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000044.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000045.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000046.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000047.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000048.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000049.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000050.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000051.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000052.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000053.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000054.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000055.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000056.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000057.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000058.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000059.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000060.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000061.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000062.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000063.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000064.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+    <Object Include="Zombie\zombie_000065.obj">
+      <Filter>Resource Files\Zombie</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ak47\clip.bmp">
+      <Filter>Resource Files\ak47</Filter>
+    </Image>
+    <Image Include="ak47\weapon.bmp">
+      <Filter>Resource Files\ak47</Filter>
+    </Image>
+    <Image Include="skybox\txStormydays_back.bmp">
+      <Filter>Resource Files\skybox</Filter>
+    </Image>
+    <Image Include="skybox\txStormydays_down.bmp">
+      <Filter>Resource Files\skybox</Filter>
+    </Image>
+    <Image Include="skybox\txStormydays_front.bmp">
+      <Filter>Resource Files\skybox</Filter>
+    </Image>
+    <Image Include="skybox\txStormydays_left.bmp">
+      <Filter>Resource Files\skybox</Filter>
+    </Image>
+    <Image Include="skybox\txStormydays_right.bmp">
+      <Filter>Resource Files\skybox</Filter>
+    </Image>
+    <Image Include="skybox\txStormydays_up.bmp">
+      <Filter>Resource Files\skybox</Filter>
+    </Image>
   </ItemGroup>
 </Project>
